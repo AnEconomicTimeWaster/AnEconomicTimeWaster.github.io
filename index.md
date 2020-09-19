@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the Site
+
+No point in lying, I've been trying to get something to write on set up for about a year now and I am settling on this for now because trying to figure out Hugo is killing me.
 
 You can use the [editor on GitHub](https://github.com/AnEconomicTimeWaster/AnEconomicTimeWaster.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
